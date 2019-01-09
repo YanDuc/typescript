@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "outDir": "./result",
+        "allowJs": true,
+        "target": "ES5",
+        "pretty":true
+    },
+    "include": [
+      "exercice.ts"
+    ]
+}
